@@ -28,7 +28,7 @@ Other functions are just similar to the first one, easy to use.
 
 - Win Path to Linux Path
 
-Paste the Windows path you want to operate under WSL environment onto `Windows Target Path`, and click the `Win Path to Linux Path` button below. The program would return the WSL environment path headed of `/mnt/`
+Paste the Windows path you want to operate under WSL environment onto `Windows Target Path`, and click the `Win Path to Linux Path` button below. The programme would return the WSL environment path headed of `/mnt/`
 
 
 ## Acknowledge
