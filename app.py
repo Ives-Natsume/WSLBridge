@@ -38,7 +38,6 @@ def on_mv_linux_to_win():
 root = tk.Tk()
 root.title("W&L Bridge")
 
-root.iconbitmap('app_icon.ico')
 
 
 # input zone
