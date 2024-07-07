@@ -21,7 +21,7 @@ Additionally, it provides an efficient method to convert Windows paths to WSL pa
 
 - Copy Windows files to Linux
 
-Paste the Windows file path on `Windows File Path`, and the WSL path which you want your file to copy to `Linux Target File`. Then click the `Copy Windows files to Linux` button below.
+Paste the Windows file path on `Windows File Path`, and paste the WSL path where you want your file to copy to `Linux Target File`. Then click the `Copy Windows files to Linux` button below.
 
 Other functions are just similar to the first one, easy to use.
 
