@@ -29,3 +29,12 @@ Other functions are just similar to the first one, easy to use.
 - Win Path to Linux Path
 
 Paste the Windows path you want to operate under WSL environment onto `Windows Target Path`, and click the `Win Path to Linux Path` button below. The program would return the WSL environment path headed of `/mnt/`
+
+
+## Acknowledge
+
+I learned how to pack my programme from this blog: https://blog.csdn.net/qq_48979387/article/details/132359366
+
+I occationally found the pic of icon on Twitter, but I failed to find the author. Really sorry about that. The character on icon is Yoshikawa Yūko.
+
+The splash image comes form anime *Sound! Euphonium*, I really like the anime.
