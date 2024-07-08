@@ -16,7 +16,7 @@ Additionally, it provides an efficient method to convert Windows paths to WSL pa
 
 ## Usage
 
-![image](https://github.com/Ives-Natsume/WSLBridge/assets/134116579/818eaf7b-76cd-4da9-a7c4-2b3ceebff5b0)
+![image](https://github.com/Ives-Natsume/WSLBridge/assets/134116579/e5d43719-8c6b-4e01-84a9-e47cba40a61a)
 
 
 - Copy Windows files to Linux
